@@ -1,6 +1,6 @@
 {
   "name": "rslsync",
-  "revision": "1",
+  "plugin_schema": "2",
   "release": "11.2-RELEASE",
   "artifact": "https://github.com/freenas/iocage-plugin-btsync.git",
   "pkgs": [
