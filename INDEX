@@ -1,4 +1,11 @@
 {
+  "asigra": {
+        "MANIFEST": "asigra.json",
+        "name": "Asigra Cloud Backup",
+        "icon": "https://www.trueos.org/iocage-icons/asigra.png",
+        "description": "Asigra is a comprehensive backup suite that features a fully-agentless deployment, global data deduplication, and a wide variety of compatible backup sources.",
+        "official": true
+  },
   "rslsync": {
         "MANIFEST": "rslsync.json",
         "name": "Resilio Sync",
